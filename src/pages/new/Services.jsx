@@ -1,13 +1,13 @@
 import React from "react";
 import SEO from "../../components/SEO.jsx";
 import Header from "../../partials/header/Header.jsx";
-import Breadcrumb from "../../container/Breadcrumb/Breadcrumb.js";
-import ServiceIconBoxTwo from "../../container/service/ServiceIconBoxTwo.js";
-// import ServiceSkill from "../../container/service/ServiceSkill.js";
-import AboutSix from "../../container/About/AboutSix.js";
-import FunfactTwo from "../../container/Funfact/FunfactTwo.js";
-import ContactInformationThree from "../../container/ContactInformation/ContactInformationThree.js";
-import Footer from "../../container/Footer/Footer.js";
+import Breadcrumb from "../../container/Breadcrumb/Breadcrumb.jsx";
+import ServiceIconBoxTwo from "../../container/service/ServiceIconBoxTwo.jsx";
+// import ServiceSkill from "../../container/service/ServiceSkill.jsx";
+import AboutSix from "../../container/About/AboutSix.jsx";
+import FunfactTwo from "../../container/Funfact/FunfactTwo.jsx";
+import ContactInformationThree from "../../container/ContactInformation/ContactInformationThree.jsx";
+import Footer from "../../container/Footer/Footer.jsx";
 import ScrollToTop from "../../components/ScrollToTop.jsx";
 // 
 const Service = () => {
